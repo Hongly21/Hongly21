@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hongly 👋
 
-<!--
-**Hongly21/Hongly21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Norton University in Phnom Penh, Cambodia.
+I was selected for the IT Expert Scholarship program at ISTAD, where I completed
+an intensive course in Full Stack Web Development and am studying DevOps Engineering.
 
-Here are some ideas to get you started:
+I enjoy building practical applications, from full-stack web apps to backend
+services. I'm currently looking for a **Web Development Internship** or
+**Junior Full-Stack Developer** opportunity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Full-stack web applications
+- Point of Sale (POS) systems
+- E-commerce platforms with Telegram order dispatch
+- Financial tracking services with Spring Boot
+- DevOps and containerized applications
+
+## Skills
+
+- Full-Stack Web Development
+- DevOps Engineering
+- Spring Boot
+
+## Featured projects
+
+- **Point of Sale system** — a full-stack POS application
+- **E-commerce platform** — includes automated Telegram order dispatch
+- **Financial tracking service** — built with Spring Boot
